@@ -143,13 +143,14 @@ public class PlayerMovement : MonoBehaviour
 
             capsuleCollider.height = controller.height;
             capsuleCollider.center = controller.center;
-
+            
             yield return null;
         }
 
         controller.height = targetHeight;
         controller.center = new Vector3(controller.center.x, targetCenterY, controller.center.z);
 
+        //transform.localScale = new Vector3(transform.localScale.x,targetHeight/2f, transform.localScale.z);
         capsuleCollider.height = controller.height;
         capsuleCollider.center = controller.center;
     }
