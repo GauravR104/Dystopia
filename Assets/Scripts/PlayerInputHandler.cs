@@ -6,6 +6,7 @@ public class PlayerInputHandler : MonoBehaviour
     [Header("Unity Events")]
     public UnityEvent<Vector2> OnMove;
     public UnityEvent OnCrouch;
+    public UnityEvent OnJump;
     public UnityEvent<bool> OnAim;
     public UnityEvent<bool> OnShoot;
     public UnityEvent OnReload;
@@ -30,6 +31,9 @@ public class PlayerInputHandler : MonoBehaviour
 
         // Subscribe to Crouch
         controls.Gameplay.Crouch.performed += ctx => OnCrouch.Invoke();
+
+        // Subscribe to Jump
+        controls.Gameplay.Jump.performed += ctx => OnJump.Invoke();
     }
 
     private void OnEnable()

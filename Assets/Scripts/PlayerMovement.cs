@@ -16,6 +16,13 @@ public class PlayerMovement : MonoBehaviour
     public float standingHeight = 2f;
     public float crouchTransitionTime = 0.2f;
 
+    [Header("Jump Settings")]
+    public float jumpHeight = 2f;
+    public float gravity = -9.81f;
+    public Transform groundCheck;
+    public float groundDistance = 0.4f;
+    public LayerMask groundMask;
+
     [Header("Components")]
     public Animator animator;
 
@@ -28,6 +35,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 velocity;
     private bool isCrouching = false;
 
+    private bool isGrounded;
+
     private Vector2 inputDirection;
     private float crouchStartTime;
     float crouchBlend = 0f;
@@ -36,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
         PlayerInputHandler input = FindAnyObjectByType<PlayerInputHandler>();
         input.OnMove.AddListener(HandleMove);
         input.OnCrouch.AddListener(ToggleCrouch);
+        input.OnJump.AddListener(Jump);
     }
 
     private void OnDisable()
@@ -43,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
         PlayerInputHandler input = FindAnyObjectByType<PlayerInputHandler>();
         input.OnMove.RemoveListener(HandleMove);
         input.OnCrouch.RemoveListener(ToggleCrouch);
+        input.OnJump.RemoveListener(Jump);
     }
 
     private void Start()
@@ -55,17 +66,30 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+
+        if (isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f; // stick to ground
+        }
+
+       
+
         Move();
 
-        float targetCrouch = isCrouching ? 0.75f : 0f;
+        float targetCrouch = isCrouching ? 1f : 0f;
         crouchBlend = Mathf.MoveTowards(crouchBlend, targetCrouch, Time.deltaTime * 5f); // adjust speed as needed
-        //animator.SetFloat("Crouch", crouchBlend);
+        animator.SetFloat("Crouch", crouchBlend);
 
         if (isCrouching)
         {
             float crouchDuration = Time.time - crouchStartTime;
             crouchStartTime = Time.time; // Reset crouch start time
         }
+
+        // Apply gravity
+        velocity.y += gravity * Time.deltaTime;
+        controller.Move(velocity * Time.deltaTime);
     }
 
 
@@ -86,20 +110,18 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        //animator.SetFloat("Speed", inputDirection.magnitude, 0.05f, Time.deltaTime);
+        animator.SetFloat("Speed", inputDirection.magnitude, 0.05f, Time.deltaTime);
 
-        // Gravity
-        if (!controller.isGrounded)
-        {
-            velocity.y += Physics.gravity.y * Time.deltaTime;
-            controller.Move(velocity * Time.deltaTime);
-        }
-        else
-        {
-            velocity.y = 0;
-        }
     }
 
+    private void Jump()
+    {
+        if (isGrounded && !isCrouching)
+        {
+            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            // animator.SetTrigger("Jump"); // Optional
+        }
+    }
 
     private Vector3 HandleNormalMovement(Vector3 direction)
     {
@@ -117,7 +139,7 @@ public class PlayerMovement : MonoBehaviour
         isCrouching = !isCrouching;
 
 
-        //  animator.SetFloat("Crouch", smoothCrouch);
+       
 
 
         // Adjust Character Controller Height
@@ -150,7 +172,7 @@ public class PlayerMovement : MonoBehaviour
         controller.height = targetHeight;
         controller.center = new Vector3(controller.center.x, targetCenterY, controller.center.z);
 
-        //transform.localScale = new Vector3(transform.localScale.x,targetHeight/2f, transform.localScale.z);
+       ;
         capsuleCollider.height = controller.height;
         capsuleCollider.center = controller.center;
     }
@@ -160,5 +182,12 @@ public class PlayerMovement : MonoBehaviour
        // animator.SetTrigger("Dead");
         GetComponent<Collider>().enabled = false;
         GetComponent<CharacterController>().enabled = false;
+    }
+    private void OnDrawGizmosSelected()
+    {
+        if (groundCheck == null) return;
+
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(groundCheck.position, groundDistance);
     }
 }

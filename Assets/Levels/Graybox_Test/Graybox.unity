@@ -188,6 +188,10 @@ PrefabInstance:
       value: Graybox_Mesh (64)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -208,7 +212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3228978}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Env
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -396,6 +400,10 @@ PrefabInstance:
       value: Graybox_Mesh (72)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -474,6 +482,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -620,6 +632,10 @@ PrefabInstance:
       value: Graybox_Mesh (22)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -764,6 +780,10 @@ PrefabInstance:
       value: Graybox_Mesh (48)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -842,6 +862,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -924,6 +948,10 @@ PrefabInstance:
       value: Graybox_Mesh (43)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -1002,6 +1030,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1460,7 +1492,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 182195055}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GameObject (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1901,6 +1933,10 @@ PrefabInstance:
       value: Graybox_Mesh (67)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -1979,6 +2015,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2061,6 +2101,10 @@ PrefabInstance:
       value: Graybox_Mesh (67)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2139,6 +2183,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2280,6 +2328,10 @@ PrefabInstance:
       value: Graybox_Mesh (70)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2358,6 +2410,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2442,6 +2498,10 @@ PrefabInstance:
       value: Graybox_Mesh (61)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2522,6 +2582,10 @@ PrefabInstance:
       value: Graybox_Mesh (69)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2600,6 +2664,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2714,6 +2782,10 @@ PrefabInstance:
       value: Graybox_Mesh (63)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2792,6 +2864,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2906,6 +2982,10 @@ PrefabInstance:
       value: Graybox_Mesh (63)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -2984,6 +3064,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3096,6 +3180,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3260,6 +3348,10 @@ PrefabInstance:
       value: Graybox_Mesh (25)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -3370,6 +3462,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3489,6 +3585,10 @@ PrefabInstance:
       value: Graybox_Mesh (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -3603,6 +3703,10 @@ PrefabInstance:
       value: Graybox_Mesh (62)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -3715,6 +3819,10 @@ PrefabInstance:
       value: Graybox_Mesh (70)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -3825,6 +3933,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3971,6 +4083,10 @@ PrefabInstance:
       value: Graybox_Mesh (68)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -4081,6 +4197,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4195,6 +4315,10 @@ PrefabInstance:
       value: Graybox_Mesh (21)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -4305,6 +4429,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4579,6 +4707,10 @@ PrefabInstance:
       value: Graybox_Mesh (39)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -4659,6 +4791,10 @@ PrefabInstance:
       value: Graybox_Mesh (75)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -4737,6 +4873,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4849,6 +4989,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5010,6 +5154,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5284,6 +5432,10 @@ PrefabInstance:
       value: Graybox_Mesh (11)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -5426,6 +5578,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5604,6 +5760,10 @@ PrefabInstance:
       value: Graybox_Mesh (72)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -5682,6 +5842,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5924,6 +6088,10 @@ PrefabInstance:
       value: Graybox_Mesh (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6036,6 +6204,10 @@ PrefabInstance:
       value: Graybox_Mesh (32)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6116,6 +6288,10 @@ PrefabInstance:
       value: Graybox_Mesh (59)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6194,6 +6370,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6308,6 +6488,10 @@ PrefabInstance:
       value: Graybox_Mesh (74)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6386,6 +6570,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6468,6 +6656,10 @@ PrefabInstance:
       value: Graybox_Mesh (52)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6546,6 +6738,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6692,6 +6888,10 @@ PrefabInstance:
       value: Graybox_Mesh (30)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6802,6 +7002,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6916,6 +7120,10 @@ PrefabInstance:
       value: Graybox_Mesh (37)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -6994,6 +7202,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7108,6 +7320,10 @@ PrefabInstance:
       value: Graybox_Mesh (73)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -7220,6 +7436,10 @@ PrefabInstance:
       value: Graybox_Mesh (34)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -7330,6 +7550,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7476,6 +7700,10 @@ PrefabInstance:
       value: Graybox_Mesh (46)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -7554,6 +7782,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7700,6 +7932,10 @@ PrefabInstance:
       value: Graybox_Mesh (71)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -7737,7 +7973,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.91
+      value: -1.71
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7745,7 +7981,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalRotation.x
@@ -7753,7 +7989,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7071068
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalRotation.z
@@ -7765,7 +8001,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -7775,6 +8011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ch44_nonPBR
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: b728bd4311f3cc34ea0012114f342e41, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7849,6 +8089,10 @@ PrefabInstance:
       value: Graybox_Mesh (67)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -7869,7 +8113,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1305682850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7972,6 +8216,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8086,6 +8334,10 @@ PrefabInstance:
       value: Graybox_Mesh (66)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -8192,6 +8444,13 @@ MonoBehaviour:
   crouchHeight: 1
   standingHeight: 2
   crouchTransitionTime: 0.2
+  jumpHeight: 2
+  gravity: -9.81
+  groundCheck: {fileID: 0}
+  groundDistance: 0.4
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 0
   animator: {fileID: 0}
   distanceFromCamera: 10
 --- !u!143 &1344471833
@@ -8343,6 +8602,10 @@ PrefabInstance:
       value: Graybox_Mesh (44)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -8421,6 +8684,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8535,6 +8802,10 @@ PrefabInstance:
       value: Graybox_Mesh (68)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -8613,6 +8884,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8729,6 +9004,10 @@ PrefabInstance:
       value: Graybox_Mesh (13)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -8839,6 +9118,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8971,7 +9254,7 @@ Transform:
   m_GameObject: {fileID: 1414177721}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3647734, y: 0.0016108857, z: -0.00063109386, w: 0.93109477}
-  m_LocalPosition: {x: 190.98, y: 8.13, z: -97.28}
+  m_LocalPosition: {x: 190.98, y: 8.4, z: -97.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9046,6 +9329,10 @@ PrefabInstance:
       value: Graybox_Mesh (56)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -9098,7 +9385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1425489045}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GameObject (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9235,6 +9522,10 @@ PrefabInstance:
       value: Graybox_Mesh (68)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -9313,6 +9604,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9491,6 +9786,10 @@ PrefabInstance:
       value: Graybox_Mesh (66)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -9571,6 +9870,10 @@ PrefabInstance:
       value: Graybox_Mesh (38)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -9649,6 +9952,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9758,6 +10065,11 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2232952877369940510, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+--- !u!95 &1524333865 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: cd88e3154a42d7d4384a03e4571c12c8, type: 3}
+  m_PrefabInstance: {fileID: 1279494028}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1526966513 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
@@ -9891,6 +10203,10 @@ PrefabInstance:
       value: Graybox_Mesh (41)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -10001,6 +10317,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10143,6 +10463,37 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2232952877369940510, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+--- !u!1 &1631696031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1631696032}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1631696032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1631696031}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -1.706, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1748717633}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1637244014
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10210,6 +10561,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10292,6 +10647,10 @@ PrefabInstance:
       value: Graybox_Mesh (66)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -10372,6 +10731,10 @@ PrefabInstance:
       value: Graybox_Mesh (72)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -10450,6 +10813,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10562,6 +10929,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10706,6 +11077,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11298,6 +11673,9 @@ MonoBehaviour:
   OnCrouch:
     m_PersistentCalls:
       m_Calls: []
+  OnJump:
+    m_PersistentCalls:
+      m_Calls: []
   OnAim:
     m_PersistentCalls:
       m_Calls: []
@@ -11320,14 +11698,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runSpeed: 6
-  crouchSpeed: 1
+  crouchSpeed: 2
   turnSmoothTime: 0.1
   turnThresholdAngle: 90
   rotationSpeed: 5
-  crouchHeight: 1
-  standingHeight: 2
+  crouchHeight: 2
+  standingHeight: 3.5
   crouchTransitionTime: 0.2
-  animator: {fileID: 0}
+  jumpHeight: 2
+  gravity: -9.81
+  groundCheck: {fileID: 1631696032}
+  groundDistance: 0.4
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 64
+  animator: {fileID: 1524333865}
   distanceFromCamera: 10
 --- !u!143 &1748717629
 CharacterController:
@@ -11347,7 +11732,7 @@ CharacterController:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Height: 2
+  m_Height: 3.5
   m_Radius: 0.5
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -11374,7 +11759,7 @@ CapsuleCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
-  m_Height: 2
+  m_Height: 3.5
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1748717631
@@ -11439,11 +11824,12 @@ Transform:
   m_GameObject: {fileID: 1748717626}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 191, y: 2.78, z: -91.5}
+  m_LocalPosition: {x: 191, y: 3.05, z: -91.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 448798286}
+  - {fileID: 1631696032}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1756651160
@@ -11513,6 +11899,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11593,6 +11983,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11737,6 +12131,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11934,7 +12332,7 @@ Transform:
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
   m_LocalRotation: {x: 0.36477342, y: 0.001610886, z: -0.000631094, w: 0.9310947}
-  m_LocalPosition: {x: 190.98, y: 8.13, z: -97.28}
+  m_LocalPosition: {x: 190.98, y: 8.4, z: -97.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12180,6 +12578,10 @@ PrefabInstance:
       value: Graybox_Mesh (35)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -12292,6 +12694,10 @@ PrefabInstance:
       value: Graybox_Mesh (40)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -12370,6 +12776,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12484,6 +12894,10 @@ PrefabInstance:
       value: Graybox_Mesh (17)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -12594,6 +13008,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12757,6 +13175,10 @@ PrefabInstance:
       value: Graybox_Mesh (74)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -12835,6 +13257,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12917,6 +13343,10 @@ PrefabInstance:
       value: Graybox_Mesh (70)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -12995,6 +13425,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13143,6 +13577,10 @@ PrefabInstance:
       value: Graybox_Mesh (57)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13221,6 +13659,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13303,6 +13745,10 @@ PrefabInstance:
       value: Graybox_Mesh (63)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13383,6 +13829,10 @@ PrefabInstance:
       value: Graybox_Mesh (64)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13461,6 +13911,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13607,6 +14061,10 @@ PrefabInstance:
       value: Graybox_Mesh (74)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13717,6 +14175,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13831,6 +14293,10 @@ PrefabInstance:
       value: Graybox_Mesh (33)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13911,6 +14377,10 @@ PrefabInstance:
       value: Graybox_Mesh (49)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
@@ -13989,6 +14459,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_StaticEditorFlags

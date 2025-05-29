@@ -24,7 +24,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Aim",
+                    "name": "Jump",
                     "type": "Button",
                     "id": "96b887dc-383a-49cd-9a58-e36e90de727f",
                     "expectedControlType": "",
@@ -59,11 +59,11 @@
                 {
                     "name": "",
                     "id": "0b744847-15b3-4372-84e3-c4c2f7cbf5ee",
-                    "path": "",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Aim",
+                    "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
