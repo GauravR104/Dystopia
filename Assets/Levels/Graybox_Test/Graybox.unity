@@ -5422,6 +5422,10 @@ PrefabInstance:
       propertyPath: m_ReceiveGI
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: eaa592770f8f1aa4d827e4506a7ed1e7, type: 2}
     - target: {fileID: 919132149155446097, guid: d7c21466cdeed8849b70ef2d882de2f2, type: 3}
       propertyPath: m_Name
       value: Graybox_Mesh (11)
