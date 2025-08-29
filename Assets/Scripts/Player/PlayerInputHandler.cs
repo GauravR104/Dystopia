@@ -7,9 +7,6 @@ public class PlayerInputHandler : MonoBehaviour
     public UnityEvent<Vector2> OnMove;
     public UnityEvent OnCrouch;
     public UnityEvent OnJump;
-    public UnityEvent<bool> OnAim;
-    public UnityEvent<bool> OnShoot;
-    public UnityEvent OnReload;
 
     private PlayerControls controls;
 

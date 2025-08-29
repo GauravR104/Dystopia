@@ -185,6 +185,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "UI",
+            "id": "f82866cb-df95-4930-9b12-9ef03ae1c4af",
+            "actions": [
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "c61cb0a5-7c9e-4625-9a2c-44c37c0e0193",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2422c329-9e6f-4249-ac18-6ac3b6902a34",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
