@@ -21,8 +21,6 @@ public class Dialogue : ScriptableObject
     {
         public string text;
         public DialogueType dialogueType;
-        public bool closesDialogue;
-        public bool movesToNextNode;
         public string nextNodeId;   
     }
 

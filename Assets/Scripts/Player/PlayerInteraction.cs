@@ -4,12 +4,14 @@ public class PlayerInteraction : MonoBehaviour
 {
     public PlayerControls controls;
     public bool canInteractWithNPC = false;
+
     private bool canInteractWithJob = false;
+
     public Dialogue currentDialogue;
     public string npcName;
-  //  public SceneLoader sceneLoader;
+    public string jobName;
 
-    private string jobName;
+  //  public SceneLoader sceneLoader;
 
     private void Awake()
     {
@@ -34,7 +36,7 @@ public class PlayerInteraction : MonoBehaviour
         {
             //SoundManager.ins.PlaySfx("Accept");
             //UIManager.ins.SetMessageObject(false, "", "");
-            DialogueManager.instance.StartDialogue(currentDialogue, npcName);
+            DialogueManager.instance.StartDialogue(currentDialogue, npcName,jobName);
           //  GetComponent<PlayerMovement>().canMove = false;
             canInteractWithNPC = false;
         }

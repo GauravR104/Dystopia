@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OutdoorsScene.unity
-    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+    path: Assets/Levels/Hub.unity
+    guid: 76d80ca79680707499c480c69278dc21
+  - enabled: 1
+    path: Assets/Levels/Minigames/Bad_Honor/Shoplifting_Adv.unity
+    guid: cfe62113f910c3b429f2542be9b24469
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: f1c4b9e4318e0a34d9afca9c0be25bd6, type: 3}
   m_UseUCBPForAssetBundles: 0

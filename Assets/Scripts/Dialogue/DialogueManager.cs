@@ -18,7 +18,7 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text nameText;
     public TMP_Text dialogueText;
     public GameObject[] choiceButtons;
-    private Dialogue.DialogueNode currentNode;
+    public Dialogue.DialogueNode currentNode;
     public static DialogueManager instance;
     public Animator animator;
     public PlayerControls controls;
@@ -30,6 +30,8 @@ public class DialogueManager : MonoBehaviour
     public Button nextButton;
 
     public GameObject dialoguePanel;
+
+    private string jobToLoad;
 
     private void Awake()
     {
@@ -55,14 +57,15 @@ public class DialogueManager : MonoBehaviour
         controls.Gameplay.Disable();
     }
 
-    public void StartDialogue(Dialogue dialogue, string name="")
+    public void StartDialogue(Dialogue dialogue, string name="",string job="")
     {
         this.dialogue = dialogue;
         nameText.text = name;
         currentNode = dialogue.nodes[0];
-        //animator.SetBool("IsOpen", true);
+      
         dialoguePanel.SetActive(true);
         DisplayCurrentNode(currentNode);
+        jobToLoad = job;
 
         //GameManager.Instance.playerAction = PlayerDialogueAction.PlayerStartTalking;
      
@@ -74,29 +77,21 @@ public class DialogueManager : MonoBehaviour
 
         switch(selectedChoice.dialogueType)
         {
-            case DialogueType.NextDialogue:
+            case DialogueType.CloseDialogue:
                 EndDialogue();
                 break;
-            case DialogueType.CloseDialogue:
+            case DialogueType.NextDialogue:
                 currentNode = dialogue.FindNodeById(selectedChoice.nextNodeId);
                 choiceButtons[0].transform.parent.gameObject.SetActive(false);
                 DisplayCurrentNode(currentNode);
                 break;
             case DialogueType.StartJob:
+                if(jobToLoad!=string.Empty)
+                {
+                    FindFirstObjectByType<Fader>().FadeToLevel(jobToLoad);
+                }
                 break;
         }
-
-        if (selectedChoice.closesDialogue)
-        {
-            EndDialogue();
-        }
-        else if (selectedChoice.movesToNextNode)
-        {
-            currentNode = dialogue.FindNodeById(selectedChoice.nextNodeId);
-            choiceButtons[0].transform.parent.gameObject.SetActive(false);
-            DisplayCurrentNode(currentNode);
-        }
-        
     }
 
     private void DisplayCurrentNode(DialogueNode dialogueNode)
@@ -161,8 +156,6 @@ public class DialogueManager : MonoBehaviour
 
     private void EndDialogue()
     {
-        // animator.SetBool("IsOpen", false);
-
         dialoguePanel.SetActive(false);
         //player.canMove = true;
 
@@ -177,9 +170,6 @@ public class DialogueManager : MonoBehaviour
             }
         }
 
-       
-
-
         EventSystem.current.SetSelectedGameObject(null);
     }
 
@@ -189,4 +179,3 @@ public class DialogueManager : MonoBehaviour
         EndDialogue();
     }
 }
-

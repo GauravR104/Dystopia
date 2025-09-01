@@ -14,23 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodes:
   - id: 0
-    text: How are You
+    text: Hey, I got a job for you
     choices:
-    - text: Good
+    - text: What Job
       dialogueType: 1
-      closesDialogue: 0
-      movesToNextNode: 1
       nextNodeId: 1
-    - text: Ok
+    - text: No I am good
       dialogueType: 0
-      closesDialogue: 1
-      movesToNextNode: 0
       nextNodeId: 
   - id: 1
-    text: Nice
+    text: You have to break in
     choices:
-    - text: Good
+    - text: Ok
+      dialogueType: 2
+      nextNodeId: 
+    - text: Not for me bro
       dialogueType: 0
-      closesDialogue: 1
-      movesToNextNode: 0
       nextNodeId: 
