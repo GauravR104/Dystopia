@@ -17,10 +17,12 @@ MonoBehaviour:
     text: How are You
     choices:
     - text: Good
+      dialogueType: 1
       closesDialogue: 0
       movesToNextNode: 1
       nextNodeId: 1
     - text: Ok
+      dialogueType: 0
       closesDialogue: 1
       movesToNextNode: 0
       nextNodeId: 
@@ -28,6 +30,7 @@ MonoBehaviour:
     text: Nice
     choices:
     - text: Good
+      dialogueType: 0
       closesDialogue: 1
       movesToNextNode: 0
       nextNodeId: 
